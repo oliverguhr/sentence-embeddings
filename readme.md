@@ -1,4 +1,4 @@
-# LaBSE: Language-Agnostic BERT Sentence Embedding
+# LaBSE Wrapper: A simple wrapper for the "Language-Agnostic BERT Sentence Embedding" Model
 
 This repo contains a simple wrapper for the the LaBSE language model by Feng. et al. 
 You can read more about this model at [Google AI Blog](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html) and the [Paper](https://arxiv.org/abs/2007.01852).
